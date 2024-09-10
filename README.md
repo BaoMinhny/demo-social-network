@@ -36,3 +36,5 @@ server will run on http://localhost:5000.
 1. Run the tests:
     ```bash
     npm test
+
+2. Testing
